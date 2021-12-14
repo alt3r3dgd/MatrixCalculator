@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Матрицы</string>
+    <string name="matrices">Матрицы</string>
+    <string name="number">Число</string>
+    <string name="add_number_to_matrix">Прибавить число к матрице</string>
+    <string name="subtract_number_from_matrix">Вычесть число из матрицы</string>
+    <string name="multiply_matrix_by_number">Умножить матрицу на число</string>
+    <string name="add_matrices">Сложить матрицы</string>
+    <string name="subtract_matrices">Вычесть вторую матрицу из первой</string>
+    <string name="multiply_matrices">Перемножить матрицы</string>
+    <string name="numbers">Числа</string>
+    <string name="size">Размер</string>
+    <string name="properties">Свойства</string>
+    <string name="determinant">Определитель</string>
+    <string name="transposed_matrix">Транспонированная матрица</string>
+    <string name="reversed_matrix">Обратная матрица</string>
+    <string name="apply">Применить</string>
+    <string name="matrix">Матрица</string>
+</resources>

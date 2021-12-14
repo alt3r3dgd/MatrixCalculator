@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Matrices</string>
+    <string name="number">Number</string>
+    <string name="add_number_to_matrix">Add a number to the matrix</string>
+    <string name="multiply_matrix_by_number">Multiply the matrix by a number</string>
+    <string name="add_matrices">Add matrices</string>
+    <string name="subtract_matrices">Subtract the second matrix from the first one</string>
+    <string name="multiply_matrices">Mutliply the matrices</string>
+    <string name="numbers">Numbers</string>
+    <string name="size">Size</string>
+    <string name="properties">Properties</string>
+    <string name="determinant">Determinant</string>
+    <string name="transposed_matrix">Transposed matrix</string>
+    <string name="reversed_matrix">Reverse matrix</string>
+    <string name="apply">Apply</string>
+    <string name="subtract_number_from_matrix">Subtract a number from the matrix</string>
+    <string name="matrices">Matrices</string>
+    <string name="matrix">Matrix</string>
+</resources>
